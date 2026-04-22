@@ -1,10 +1,10 @@
-# Skolebesøk av NRG på Simula Research Laboratory
+# Skolebesøk på Simula Research Laboratory
 
-Dette materialet ble skrevet i forbindelse med at NRG (Norges Realfagsgymnas) besøkte Simula Research Laboratory for å lære litt om Python og numeriske beregninger. Materialet er ment å være en introduksjon til grunnleggende Python-programmering, med fokus på bruk av Jupyter Notebook som et verktøy for interaktiv koding.
+Dette materialet ble skrevet i forbindelse med skolebesøk påSimula Research Laboratory for å lære litt om Python og numeriske beregninger. Materialet er ment å være en introduksjon til grunnleggende Python-programmering, med fokus på bruk av Jupyter Notebook som et verktøy for interaktiv koding.
 
-Statiske sider kan finnes ved å gå til følgende side: https://finsberg.github.io/visit-nrg-2025/
+Statiske sider kan finnes ved å gå til følgende side: https://scientificcomputing.github.io/vgs-visit/
 
-Live notebooks kan finnes ved å gå til følgende side: https://finsberg.github.io/visit-nrg-2025/lite
+Live notebooks kan finnes ved å gå til følgende side: https://scientificcomputing.github.io/vgs-visit/lite
 
 Her er en oversikt over hva som blir dekket i materialet:
 
@@ -17,6 +17,6 @@ Dette materialet er lisensiert under [Creative Commons Attribution 4.0 Internati
 
 ## Spørsmål eller tilbakemeldinger
 Hvis du har spørsmål eller tilbakemeldinger om materialet, er du velkommen til å kontakte Henrik Finsberg på henriknf@simula.no.
-Oppdager du feil eller har forslag til forbedringer, er du også velkommen til å opprette et issue på https://github.com/finsberg/visit-nrg-2025/issues
+Oppdager du feil eller har forslag til forbedringer, er du også velkommen til å opprette et issue på https://github.com/scientificcomputing/vgs-visit/issues
 
-Dersom du ønsker å lære mer kan du for eksempel sjekke ut kursmaterialet som ble utviklet i forbindelse med IN1910 - Programmering med naturvitenskapelige anvendelser ved Universitetet i Oslo: https://finsberg.github.io/IN1910
+Dersom du ønsker å lære mer kan du for eksempel sjekke ut kursmaterialet som ble utviklet i forbindelse med IN1910 - Programmering med naturvitenskapelige anvendelser ved Universitetet i Oslo: https://scientificcomputing.github.io/IN1910
