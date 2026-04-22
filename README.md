@@ -1,6 +1,6 @@
 # Skolebesøk på Simula Research Laboratory
 
-Dette materialet ble skrevet i forbindelse med skolebesøk påSimula Research Laboratory for å lære litt om Python og numeriske beregninger. Materialet er ment å være en introduksjon til grunnleggende Python-programmering, med fokus på bruk av Jupyter Notebook som et verktøy for interaktiv koding.
+Dette materialet ble skrevet i forbindelse med skolebesøk på Simula Research Laboratory for å lære litt om Python og numeriske beregninger. Materialet er ment å være en introduksjon til grunnleggende Python-programmering, med fokus på bruk av Jupyter Notebook som et verktøy for interaktiv koding.
 
 Statiske sider kan finnes ved å gå til følgende side: https://scientificcomputing.github.io/vgs-visit/
 
